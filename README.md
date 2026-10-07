@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1300&pause=650&color=8B1E2D&center=true&vCenter=true&width=900&height=70&repeat=true&lines=Marketing+Digital;Data+Analyste;Conf%C3%A9rencier;Enseignant+Vacataire;Entrepreneur;Manager" alt="Fonctions professionnelles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1500&pause=750&color=8B1E2D&center=true&vCenter=true&width=900&height=70&repeat=true&lines=Marketing+Digital+%7C+Data+Analyste;Conf%C3%A9rencier+%7C+Enseignant+Vacataire;Entrepreneur+%7C+Manager" alt="Fonctions professionnelles" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/%C3%89tudiants+form%C3%A9s-4.700-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="4.700 étudiants formés" />
   <img src="https://img.shields.io/badge/Clients-734-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="734 clients" />
   <img src="https://img.shields.io/badge/Collaborateurs+manag%C3%A9s-50-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="50 collaborateurs managés" />
-  <img src="https://img.shields.io/badge/Trafic-%2B35.000+visiteurs+uniques%2Fmois-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="+35.000 visiteurs uniques par mois" />
+  <img src="https://img.shields.io/badge/Trafic-%2B35.000%20visiteurs%20uniques%2Fmois-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="+35.000 visiteurs uniques/mois" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Développement de la franchise, promotion des offres de formation, e-réputation
 
 Création et développement d'une plateforme de recrutement spécialisée dans les métiers du jeu vidéo et de l'esport, ainsi que d'une agence BtoB spécialisée en SEO.
 
-**+35.000 visiteurs uniques / mois — 734 clients — cession des actifs immatériels de Gaming Jobs en 2021.**
+**+35.000 visiteurs uniques/mois — 734 clients — cession des actifs immatériels de Gaming Jobs en 2021.**
 
 <details>
 <summary><b>Voir les expériences précédentes</b></summary>
@@ -174,7 +174,7 @@ Prospection et vente de progiciels, communication, tunnels de vente et SAV comme
 <table>
 <tr>
 <td width="24%" align="center">
-  <img src="https://www.polytechnique.edu/sites/default/files/nc-project/footer/logo.png" width="180" alt="École Polytechnique" />
+  <img src="https://github.com/user-attachments/assets/b9047d12-6d19-498a-b1d1-781d3e77c795" width="99" height="99" alt="École Polytechnique" />
 </td>
 <td width="76%">
   <strong>2024/2025 — Ingénieur Data et IA — Bc2 Titre RNCP — Niveau 7</strong><br/>
@@ -185,7 +185,7 @@ Prospection et vente de progiciels, communication, tunnels de vente et SAV comme
 
 <tr>
 <td width="24%" align="center">
-  <img src="https://img.shields.io/badge/IFD-Institut%20de%20Formation%20et%20D%C3%A9veloppement-8B1E2D?style=for-the-badge&labelColor=0D1117" width="210" alt="IFD" />
+  <img src="https://github.com/user-attachments/assets/e09b1452-f48a-4048-b10b-4d9c367d7a8d" width="120" height="120" alt="IFD" />
 </td>
 <td width="76%">
   <strong>2015/2016 — Habilitation CIF et IOBSP — Capacité Professionnelle</strong><br/>
@@ -196,7 +196,7 @@ Prospection et vente de progiciels, communication, tunnels de vente et SAV comme
 
 <tr>
 <td width="24%" align="center">
-  <img src="https://pbs.twimg.com/profile_images/1850926733635276800/uZh905fT.jpg" width="150" alt="ESAIP" />
+  <img src="https://github.com/user-attachments/assets/4643b44d-ac1d-4675-bde0-c3b7891bf08a" width="120" height="120" alt="ESAIP" />
 </td>
 <td width="76%">
   <strong>2008/2009 — Commercial Généraliste — Titre RNCP — Niveau 5</strong><br/>
