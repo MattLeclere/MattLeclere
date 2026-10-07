@@ -1,9 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=44&duration=900&pause=0&color=FFFFFF&background=8B1E2D&center=true&vCenter=true&width=1000&height=100&repeat=false&lines=Matthieu+Lecl%C3%A8re" alt="Matthieu Leclère" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1050&pause=450&color=B83246&background=00000000&center=true&vCenter=true&width=1000&height=72&repeat=true&lines=Enseignant+vacataire+%26+intervenant+professionnel;Entrepreneur+%7C+Manager+%7C+Formateur;Marketing+digital+%7C+Data+%26+IA;Gestion+de+projet+%7C+Recrutement+%7C+D%C3%A9veloppement" alt="Présentation professionnelle dynamique" />
+  <img width="100%" src="https://waveify.up.railway.app/api/wave/neon?color=%238B1E2D&height=190&width=1200&amplitude=34&frequency=2&speed=3&text=Matthieu%20Lecl%C3%A8re" alt="Matthieu Leclère — bannière animée" />
 </p>
 
 <p align="center">
@@ -16,35 +12,40 @@
   <a href="mailto:mat.leclere@laposte.net">
     <img src="https://img.shields.io/badge/Email-Me%20contacter-8B1E2D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
   </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MattLeclere&style=for-the-badge&color=8B1E2D&label=VUES%20DU%20PROFIL" alt="Vues du profil" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Impact%20en%20quelques%20chiffres-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Impact en quelques chiffres" />
+  <img width="100%" src="https://waveify.up.railway.app/api/terminal?theme=default&color=%238B1E2D&width=1100&height=230&speed=4&commands=whoami%2Cecho%20Matthieu%20Lecl%C3%A8re%2Ccat%20mission.txt%2Cecho%20Transformer%20des%20concepts%20en%20pratiques%20directement%20mobilisables%2Ccat%20focus.txt%2Cecho%20P%C3%A9dagogie%20%7C%20IA%20%7C%20Marketing%20digital%20%7C%20Gestion%20de%20projet" alt="Terminal de présentation animé" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=950&pause=700&color=FFFFFF&background=8B1E2D&center=true&vCenter=true&width=1000&height=68&repeat=true&lines=4+700%2B+%C3%A9tudiants+form%C3%A9s;734+clients;50+collaborateurs+manag%C3%A9s;30+000+visiteurs+uniques+%2F+mois" alt="Chiffres clés dynamiques" />
+  <img src="https://img.shields.io/badge/En%20quelques%20chiffres-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="En quelques chiffres" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mon%20positionnement-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Mon positionnement" />
+  <img width="100%" src="https://readme-svg-typing-generator.vercel.app/api?lines=4%20700%2B%20%C3%A9tudiants%20form%C3%A9s;734%20clients;50%20collaborateurs%20manag%C3%A9s;30%20000%20visiteurs%20uniques%20%2F%20mois&animation=slide&color=B83246&background=0D1117&size=28&duration=1700&pause=900&center=true&vCenter=true&width=1050&height=82&repeat=true" alt="Chiffres clés animés" />
 </p>
+
+## Mon positionnement
 
 J'évolue à la croisée de **l'enseignement, de l'entrepreneuriat, du marketing digital, du management, du recrutement et de la Data & IA**.
 
-Mon parcours ne suit pas une seule ligne métier : il relie la transmission, la stratégie et l'exécution. J'ai enseigné, dirigé, recruté, développé des activités, piloté des stratégies marketing et accompagné des équipes.
+Mon parcours ne suit pas une seule ligne métier : il relie **transmission, stratégie et exécution**. J'ai enseigné, dirigé, recruté, développé des activités, piloté des stratégies marketing et accompagné des équipes.
 
 Aujourd'hui, mon objectif est simple : **transformer des sujets complexes en méthodes compréhensibles, décisions utiles et pratiques directement mobilisables**.
 
 Depuis 2011, j'interviens auprès de publics allant du **BEP/CAP au Master 2**, tout en conservant un lien fort avec le terrain : entreprises, recrutement, communication, acquisition, transformation numérique et innovation pédagogique.
 
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=900&pause=500&color=B83246&background=00000000&center=true&vCenter=true&width=1000&height=68&repeat=true&lines=P%C3%A9dagogie+appliqu%C3%A9e;Intelligence+artificielle;Marketing+digital;Gestion+de+projet;Entrepreneuriat;D%C3%A9veloppement+professionnel" alt="Domaines de travail dynamiques" />
+  <img width="100%" src="https://waveify.up.railway.app/api/wave/gradient?color=%238B1E2D&height=34&width=1100&amplitude=12&frequency=2&speed=4" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ce%20que%20j%20apporte-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Ce que j'apporte" />
+  <img src="https://img.shields.io/badge/Ce%20que%20j%27apporte-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Ce que j'apporte" />
 </p>
 
 **Enseigner et transmettre**  
@@ -60,23 +61,22 @@ Construire une stratégie de visibilité et d'acquisition : SEO, SEA, réseaux s
 Tester les usages, identifier les gains réels, automatiser ce qui mérite de l'être et conserver un regard critique sur les limites, les biais et la qualité des résultats.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Parcours%20s%C3%A9lectionn%C3%A9-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Parcours sélectionné" />
+  <img src="https://img.shields.io/badge/Parcours-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Parcours" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://readme-svg-typing-generator.vercel.app/api?lines=2008%20%E2%80%94%20Primiweb%20%3A%20commercial;2009%20%E2%80%94%20Ath%C3%A9na%20Finances%20%3A%20gestion%20de%20patrimoine;2013%20%E2%80%94%20IFD%20%3A%20direction%20adjointe;2016%20%E2%80%94%20Gaming%20Jobs%20%2F%20M%C2%B2%20COM%20%3A%20dirigeant;2017%20%E2%80%94%20360%20Formation%20%3A%20marketing%20%26%20d%C3%A9veloppement;2011%20%E2%86%92%20aujourd%27hui%20%E2%80%94%20enseignement%20sup%C3%A9rieur;2024%20%2F%202025%20%E2%80%94%20Data%20%26%20IA%2C%20%C3%89cole%20Polytechnique%20Executive%20Education&animation=fade&color=B83246&background=0D1117&size=21&duration=2200&pause=1000&center=true&vCenter=true&width=1100&height=88&repeat=true" alt="Timeline professionnelle animée" />
 </p>
 
 ### Enseignant vacataire / Intervenant professionnel — depuis 2011
-
 Université d'Angers, IFEPSA, ESEO, ESAIP, ESPL, AMOS et autres établissements.
 
 **4 700+ étudiants formés**, du BEP/CAP au Master 2.
 
-Principaux domaines d'intervention : intelligence artificielle, marketing digital, SEO/SEA/SMM, vente, prise de parole, recherche d'emploi, gestion des risques, relations clients/fournisseurs et gestion de projet.
-
 ### Responsable marketing / Développeur franchises — 360 Formation — 2017 à 2024
-
 Développement de la franchise, promotion des offres de formation, e-réputation, SEO, SEA, SMM, PMO et relations presse.
 
 ### Dirigeant — Gaming Jobs / M² COM — 2016 à 2022
-
 Création et développement d'une plateforme de recrutement spécialisée dans les métiers du jeu vidéo et de l'esport, ainsi que d'une agence BtoB spécialisée en SEO.
 
 **30 000 visiteurs uniques / mois — 734 clients — cession des actifs immatériels de Gaming Jobs en 2021.**
@@ -87,7 +87,7 @@ Création et développement d'une plateforme de recrutement spécialisée dans l
 <br/>
 
 **Associé fondateur — Target Agency — 2020 à 2021**  
-Agence de chasse de têtes spécialisée dans l'entertainment et le jeu vidéo. Références : Bandai Namco, Ubisoft, Paradox, Playwing, Amplitude Studio.
+Agence de chasse de têtes spécialisée dans l'entertainment et le jeu vidéo.
 
 **Directeur adjoint — IFD — 2013 à 2016**  
 Management d'une équipe de 14 collaborateurs, développement commercial et marketing, ingénierie pédagogique et pilotage d'une plateforme e-learning.
@@ -101,43 +101,65 @@ Vente de progiciels, prospection, communication, tunnels de vente et SAV commerc
 </details>
 
 <p align="center">
+  <img width="100%" src="https://waveify.up.railway.app/api/wave/gradient?color=%238B1E2D&height=34&width=1100&amplitude=12&frequency=2&speed=4" alt="" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Dans%20les%20m%C3%A9dias%20et%20sur%20le%20terrain-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Dans les médias et sur le terrain" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1000&pause=650&color=B83246&background=00000000&center=true&vCenter=true&width=1000&height=66&repeat=true&lines=Interview+%E2%80%94+Demain+TV;Interview+%E2%80%94+Esport+Insights;Portrait+%E2%80%94+JEU.VIDEO;Intervention+%E2%80%94+Gaming+Campus;Portrait+%E2%80%94+ESAIP+Network" alt="Médias et interventions" />
+  <img width="100%" src="https://readme-svg-typing-generator.vercel.app/api?lines=ESAIP%20%E2%80%94%20entrepreneur%20%26%20parrain%20du%20Marathon%20Entreprendre;Demain%20TV%20%E2%80%94%20m%C3%A9tiers%20du%20gaming%20et%20de%20l%27esport;Ausha%20%E2%80%94%20L%27entrepreneuriat%2C%20c%27est%20du%20sport%20%21;Cr%C3%A9dit%20Agricole%20%E2%80%94%20conf%C3%A9rence%20sur%20l%27IA;Ouest-France%20%E2%80%94%20d%C3%A9ploiement%20international%20de%20Gaming%20Jobs&animation=glitch&color=B83246&background=0D1117&size=21&duration=2200&pause=1000&center=true&vCenter=true&width=1100&height=88&repeat=true" alt="Sélection média animée" />
 </p>
 
-**Demain TV — Le Journal de l'Emploi**  
-Interview consacrée aux métiers du gaming et de l'esport et à Gaming Jobs.  
-[Voir l'interview](https://www.demain.fr/accueil/regions/metiers-gaming-e-sport-gaming-jobs/)
-
-**Esport Insights**  
-Entretien consacré à l'emploi dans l'esport : opportunités, compétences, bénévolat et formation.  
-[Lire l'interview](https://esport-insights.com/travailler-dans-lesport-point-complet-avec-matthieu-leclere-de-gaming-jobs/)
-
-**JEU.VIDEO — Derrière l'écran**  
-Portrait consacré à la création et au développement de Gaming Jobs.  
-[Lire l'interview](https://jeu.video/article/derriere-lecran-jonas-matthieu-createurs-de-gaming-jobs)
-
-**Gaming Campus — Semaine de l'employabilité**  
-Intervention auprès d'étudiants autour de l'analyse d'une offre d'emploi et de l'adaptation de la candidature.  
-[Voir l'article](https://gamingcampus.fr/newsroom/evenements/la-semaine-de-lemployabilite-seconde-edition.html)
-
-**JEU.VIDEO — Target Agency**  
-Présentation de l'agence de recrutement spécialisée jeu vidéo, esport et entertainment.  
-[Lire l'article](https://jeu.video/article/target-agency-lexpert-recrutement-esport-jeu-video-entertainment)
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://network.esaip.org/fr/article/rencontre-avec-matthieu-ancien-esaipien-entrepreneur/22/12/2017/59">
+    <img src="https://image.thum.io/get/noanimate/maxAge/168/width/560/crop/520/https://network.esaip.org/fr/article/rencontre-avec-matthieu-ancien-esaipien-entrepreneur/22/12/2017/59" width="95%" alt="ESAIP Network" />
+  </a>
+  <br/>
+  <strong>ESAIP Network</strong><br/>
+  <sub>Parcours d'ancien ESAIPien et entrepreneur</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://www.demain.fr/accueil/regions/metiers-gaming-e-sport-gaming-jobs/">
+    <img src="https://image.thum.io/get/noanimate/maxAge/168/width/560/crop/520/https://www.demain.fr/accueil/regions/metiers-gaming-e-sport-gaming-jobs/" width="95%" alt="Demain TV" />
+  </a>
+  <br/>
+  <strong>Demain TV</strong><br/>
+  <sub>Interview sur les métiers du gaming et de l'esport</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://podcast.ausha.co/l-entrepreneuriat-c-est-du-sport/episode-34-matthieu-leclere">
+    <img src="https://image.thum.io/get/noanimate/maxAge/168/width/560/crop/520/https://podcast.ausha.co/l-entrepreneuriat-c-est-du-sport/episode-34-matthieu-leclere" width="95%" alt="Podcast Ausha" />
+  </a>
+  <br/>
+  <strong>Podcast Ausha</strong><br/>
+  <sub>L'entrepreneuriat, c'est du sport ! — épisode 34</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://www.ouest-france.fr/pays-de-la-loire/angers-49000/numerique-gaming-jobs-une-porte-d-entree-dans-le-jeu-video-6146873">
+    <img src="https://image.thum.io/get/noanimate/maxAge/168/width/560/crop/520/https://www.ouest-france.fr/pays-de-la-loire/angers-49000/numerique-gaming-jobs-une-porte-d-entree-dans-le-jeu-video-6146873" width="95%" alt="Ouest-France" />
+  </a>
+  <br/>
+  <strong>Ouest-France</strong><br/>
+  <sub>Gaming Jobs : une porte d'entrée dans le jeu vidéo</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Interventions%20r%C3%A9centes-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Interventions récentes" />
+  <a href="https://fr.linkedin.com/posts/matthieu-lecl%C3%A8re_ia-transformationdigitale-innovation-activity-7445360661494206464-GbVb">
+    <img src="https://img.shields.io/badge/Conf%C3%A9rence%20IA-Cr%C3%A9dit%20Agricole-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="Conférence IA Crédit Agricole" />
+  </a>
 </p>
 
-**Conférence Intelligence artificielle — Crédit Agricole**  
-Intervention à Durtal devant **130 participants** autour de l'appropriation de l'IA, de ses usages et du maintien d'un regard critique.  
-[Voir la publication LinkedIn](https://fr.linkedin.com/posts/matthieu-lecl%C3%A8re_ia-transformationdigitale-innovation-activity-7445360661494206464-GbVb)
-
-**Data & IA — École Polytechnique Executive Education**  
-Certification obtenue en 2025, avec un travail portant notamment sur un pipeline semi-automatisé, reproductible et auditable de production de contenus pédagogiques assistés par IA.
+<p align="center">
+  Intervention à Durtal devant <strong>130 participants</strong> autour de l'appropriation de l'IA, de ses usages et du maintien d'un regard critique.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Formation-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Formation" />
@@ -151,6 +173,14 @@ Parcours consacré à la Data et à l'intelligence artificielle.
 **Commercial généraliste — ESAIP — Titre RNCP Niveau 5 — 2008 / 2009**
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Activit%C3%A9%20GitHub-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Activité GitHub" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MattLeclere&bg_color=0D1117&color=F5F7FA&line=8B1E2D&point=B83246&area=true&area_color=8B1E2D&hide_border=true&custom_title=Activit%C3%A9%20GitHub" alt="Activité GitHub de MattLeclere" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Me%20contacter-8B1E2D?style=for-the-badge&labelColor=8B1E2D&color=8B1E2D" alt="Me contacter" />
 </p>
 
@@ -161,11 +191,12 @@ Parcours consacré à la Data et à l'intelligence artificielle.
   <a href="mailto:mat.leclere@laposte.net">
     <img src="https://img.shields.io/badge/Email-M'%C3%A9crire-8B1E2D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
   </a>
-  <a href="https://github.com/MattLeclere">
-    <img src="https://img.shields.io/badge/GitHub-MattLeclere-8B1E2D?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-  </a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=850&pause=450&color=FFFFFF&background=8B1E2D&center=true&vCenter=true&width=1000&height=70&repeat=true&lines=Transmettre;Structurer;D%C3%A9velopper;Exp%C3%A9rimenter" alt="Valeurs dynamiques" />
+  <strong>Transmettre • Structurer • Développer • Expérimenter</strong>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://waveify.up.railway.app/api/wave/gradient?color=%238B1E2D&height=34&width=1100&amplitude=12&frequency=2&speed=4" alt="" />
 </p>
