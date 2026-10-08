@@ -58,6 +58,14 @@ Tester les usages, identifier les gains réels, structurer ce qui fonctionne, au
 
 ---
 
+---
+
+## Parcours professionnel — vue matrix
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=18&duration=2400&pause=900&color=8B1E2D&center=true&vCenter=true&multiline=true&width=1100&height=240&lines=%3E%20INITIALISATION%20DU%20PARCOURS...;%3E%20%5B2008-2009%5D%20PRIMIWEB%20%3A%3A%20Commercial;%3E%20%5B2009-2013%5D%20ATHENA%20FINANCES%20%3A%3A%20Gestionnaire%20de%20patrimoine;%3E%20%5B2013-2016%5D%20IFD%20%3A%3A%20Directeur%20adjoint;%3E%20%5B2016-2022%5D%20GAMING%20JOBS%20%2F%20M%C2%B2%20COM%20%3A%3A%20Dirigeant;%3E%20%5B2017-2024%5D%20360%20FORMATION%20%3A%3A%20Responsable%20marketing;%3E%20%5B2011-%E2%80%A6%5D%20ENSEIGNEMENT%20SUPERIEUR%20%3A%3A%20Intervenant%20professionnel;%3E%20%5B2024-2025%5D%20ECOLE%20POLYTECHNIQUE%20%3A%3A%20Ingenieur%20Data%20et%20IA" alt="Parcours professionnel animé type matrix" />
+</p>
+
 ## Parcours professionnel
 
 ### Enseignant vacataire / Intervenant professionnel — depuis 2011
@@ -119,7 +127,7 @@ Prospection et vente de progiciels, communication, tunnels de vente et SAV comme
   </a>
   <br/><br/>
   <strong>Conférence Crédit Agricole</strong><br/>
-  <sub>Conférence sur l'IA auprès de 130 sociétaires</sub><br/><br/>
+  <sub>Conférence sur l'IA devant 130 participants</sub><br/><br/>
   <a href="https://www.linkedin.com/posts/matthieu-lecl%C3%A8re_ia-transformationdigitale-innovation-ugcPost-7445192481329016833-Ps8m/">Voir la source</a>
 </td>
 </tr>
@@ -169,7 +177,7 @@ Prospection et vente de progiciels, communication, tunnels de vente et SAV comme
 
 ---
 
-## Formations
+## Formation
 
 <table>
 <tr>
