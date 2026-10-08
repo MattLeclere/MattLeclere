@@ -119,7 +119,7 @@ Prospection et vente de progiciels, communication, tunnels de vente et SAV comme
   </a>
   <br/><br/>
   <strong>Conférence Crédit Agricole</strong><br/>
-  <sub>Conférence sur l'IA devant 130 participants</sub><br/><br/>
+  <sub>Conférence sur l'IA auprès de 130 sociétaires</sub><br/><br/>
   <a href="https://www.linkedin.com/posts/matthieu-lecl%C3%A8re_ia-transformationdigitale-innovation-ugcPost-7445192481329016833-Ps8m/">Voir la source</a>
 </td>
 </tr>
@@ -169,7 +169,7 @@ Prospection et vente de progiciels, communication, tunnels de vente et SAV comme
 
 ---
 
-## Formation
+## Formations
 
 <table>
 <tr>
