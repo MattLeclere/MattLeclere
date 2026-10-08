@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Matthieu+Lecl%C3%A8re-8B1E2D?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mat.leclere@laposte.net">
-    <img src="https://img.shields.io/badge/Email-Me+contacter-8B1E2D?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Me contacter-8B1E2D?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
