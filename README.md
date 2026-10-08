@@ -60,10 +60,10 @@ Tester les usages, identifier les gains réels, structurer ce qui fonctionne, au
 
 ---
 
-## Parcours professionnel 
+## Parcours professionnel — vue Matrix
 
 <p align="center">
-  <img width="100%" src="<img width="1100" height="430" alt="Image" src="https://github.com/user-attachments/assets/3f9f45d8-120c-4a67-a785-b41a2a13f52d"/>" alt="Parcours professionnel animé façon Matrix" />
+  <img width="100%" src="https://github.com/user-attachments/assets/c1b8986c-20ef-4185-b75e-79d90ac819a9" alt="Parcours professionnel animé façon Matrix" />
 </p>
 
 ## Parcours professionnel
