@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matthieu-lecl%C3%A8re/">
-    <img src="https://img.shields.io/badge/LinkedIn-Matthieu+Lecl%C3%A8re-8B1E2D?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Matthieu%20Lecl%C3%A8re-8B1E2D?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mat.leclere@laposte.net">
-    <img src="https://img.shields.io/badge/Email-Me contacter-8B1E2D?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Me%20contacter-8B1E2D?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 ## En quelques chiffres
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%C3%89tudiants+form%C3%A9s-4.700-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="4.700 étudiants formés" />
+  <img src="https://img.shields.io/badge/%C3%89tudiants%20form%C3%A9s-4.700-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="4.700 étudiants formés" />
   <img src="https://img.shields.io/badge/Clients-734-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="734 clients" />
-  <img src="https://img.shields.io/badge/Collaborateurs+manag%C3%A9s-50-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="50 collaborateurs managés" />
+  <img src="https://img.shields.io/badge/Collaborateurs%20manag%C3%A9s-50-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="50 collaborateurs managés" />
   <img src="https://img.shields.io/badge/Trafic-%2B35.000%20visiteurs%20uniques%2Fmois-8B1E2D?style=for-the-badge&labelColor=0D1117" alt="+35.000 visiteurs uniques/mois" />
 </p>
 
