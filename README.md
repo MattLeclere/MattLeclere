@@ -68,7 +68,7 @@ Tester les usages, identifier les gains réels, structurer ce qui fonctionne, au
 
 ## Parcours professionnel
 
-### Enseignant vacataire / Intervenant professionnel — depuis 2011
+### Enseignant vacataire / Conférencier — depuis 2011
 
 Université d'Angers, IFEPSA, ESEO, ESAIP, ESPL, AMOS et autres établissements.
 
